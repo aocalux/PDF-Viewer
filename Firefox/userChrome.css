@@ -1,3 +1,4 @@
+/* Hide navigation bar completely (set hight to 0) */
 #nav-bar {
   max-height: 0px !important;
   min-height: 0px !important;
@@ -7,6 +8,7 @@
   transition: all 0.2s ease-in-out !important;
 }
 
+/* Hide address bar popup (megabar) (hight and with to 0 and opacity to 0)*/
 #urlbar {
   height: 0px !important;
   width: 0px !important;
